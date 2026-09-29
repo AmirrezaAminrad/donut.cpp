@@ -1,0 +1,16 @@
+# Build outputs
+donut
+donut.exe
+a.out
+*.o
+*.obj
+*.pdb
+
+# IDE / editor
+.vs/
+.vscode/
+.zcode/
+Debug/
+Release/
+x64/
+x86/
